@@ -1,5 +1,3 @@
-# Edunet Project
-
 ## Project Overview
 The **Edunet Project** is a machine learning-based medical prediction system that aims to detect diseases such as diabetes, heart disease, thyroid disorders, Parkinson's disease, and lung cancer. It utilizes preprocessed datasets and trained machine learning models to provide predictions.
 
